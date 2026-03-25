@@ -6,7 +6,7 @@ tags: ["Matemática", "Estadistica", "Física", "Promedio"] # Por lo general con
 date: 2024-05-21 # poner la fecha de creación del post
 math: true # si contiene ecuaciones poner true
 # image: false # a definir en el futuro que tipo de imagenes poner, por el momento queda false
-banner: "/img/medir-a-medianas/moda.png"
+banner: "/img/medir-a-medianas/moda-2.png"
 ---
 
 Breve explicación intuitiva y visual de como funcionan: La media aritmética, la media geométrica, la media harmónica, la mediana y la moda (No en ese orden je).
@@ -335,7 +335,7 @@ Ejemplos:
 
 - Productividad de maquinaria: Para una máquina que prepara y termina partes. Durante la preparación corre a 25 \\({productos \over hora}\\). Al terminar, corre 10 \\({productos \over hora}\\). ¿Cuál es la tasa de todo el sistema? En este caso \\({2 \over {(\frac{1}{25} + \frac{1}{10})}}\\) = 14.28 \\({productos \over hora}\\) para cada etapa. Esto es, podemos replicar los mismos tiempos de producción, reemplazando el sistema por dos etapas corriendo a 14.28 \\({productos \over hora}\\). Como cada producto pasa por las dos etapas, la máquina completa \\(\frac{14.28}{2}\\) = 7.14 \\({productos \over hora}\\).
 
-- Comprar acciones: Supongamos que compramos $1000 en un tipo de acción cada mes, lo compras sin importar el precio que tengan en ese mes. Si pagas 25 \\({\\$ \over accion}\\) en junio, 30 \\({\\$ \over acción}\\) en Febrero, y 35 \\({\\$ \over acción}\\) en marzo. ¿Cuál fue el precio promedio? Esto es \\(3 \over {(\frac{1}{25} + \frac{1}{30} + \frac{1}{35})}\\) = $29.43 (Esto ocurre porque se compraron más acciones a un precio más bajo y menos al precio más caro, porque el precio que pagaste es el mismo $1000). Ahora ya gastaste $3000 y tenés \\({\\$3000 \over 29.43}\\) = 101.94 acciones. La carga de trabajo en este caso es un poco más abstracta - la entrada es la cantidad de acciones y la salida es el precio de esas acciones. Algunos meses usamos más dinero para comprar cada acción que en otros, y en este caso una tasa alta es algo malo.
+- Comprar acciones: Supongamos que compramos \\(\text{\textdollar} 1000\\) en un tipo de acción cada mes, lo compras sin importar el precio que tengan en ese mes. Si pagas \\( 25 {\text{\textdollar} \over accion}\\) en junio, \\( 30 {\text{\textdollar} \over acción}\\) en Febrero, y \\( 35 {\text{\textdollar} \over acción}\\) en marzo. ¿Cuál fue el precio promedio? Esto es \\(3 \over {(\frac{1}{25} + \frac{1}{30} + \frac{1}{35})}\\) = \\(\text{\textdollar} 29.43\\) (Esto ocurre porque se compraron más acciones a un precio más bajo y menos al precio más caro, porque el precio que pagaste es el mismo \\(\text{\textdollar} 1000\\)). Ahora ya gastaste \\(\text{\textdollar} 1000\\) y tenés \\({\text{\textdollar} 10003000 \over 29.43} = 101.94 \\) acciones. La carga de trabajo en este caso es un poco más abstracta - la entrada es la cantidad de acciones y la salida es el precio de esas acciones. Algunos meses usamos más dinero para comprar cada acción que en otros, y en este caso una tasa alta es algo malo.
 
 Nuevamente, la media armónica ayuda a entender como diferentes tasas trabajan en conjunto hacia un resultado.
 

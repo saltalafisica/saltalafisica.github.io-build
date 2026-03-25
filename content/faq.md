@@ -1,7 +1,7 @@
 +++
-title = "FAQ"
+title = "Preguntas frecuentes"
 description = "Frequently asked questions"
-type = "page"
+# type = "page"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
