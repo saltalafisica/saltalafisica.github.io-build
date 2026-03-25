@@ -50,4 +50,4 @@ deploy_site:
     - *download_hugo
     - $HUGO_BIN deploy --target production
   only:
-    - main
+    - master
