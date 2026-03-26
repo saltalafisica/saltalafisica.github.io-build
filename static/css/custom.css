@@ -1,48 +1,191 @@
-/* your styles go here */
-/* Example site test */
-
-.box-image-text .image {
-    min-height: 190px;
-    max-height: 190px;
+/* ---------------------- */
+/* 1. Self-hosted font    */
+/* ---------------------- */
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src:
+    url("/fonts/Atkinson-Hyperlegible-Regular.woff2") format("woff2"),
+    url("/fonts/Atkinson-Hyperlegible-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
-.box-image-text .image img {
-    max-height: 190px;
-    margin: auto;
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src:
+    url("/fonts/Atkinson-Hyperlegible-Bold.woff2") format("woff2"),
+    url("/fonts/Atkinson-Hyperlegible-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
 
-.box-simple {
-    min-height: 230px;
+/* ---------------------- */
+/* 2. Base typography      */
+/* ---------------------- */
+html {
+  font-size: 18px; /* base size for rem */
 }
 
+html,
+body,
+p,
+li,
+span,
+div,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: inherit !important; /* ensure universal application */
+}
+
+/* ---------------------- */
+/* 3. Content area        */
+/* ---------------------- */
 #post-content {
-  font-size: 17px;
+  max-width: 65ch; /* optimal line length */
+  margin: auto;
 }
 
-#post-content p {
+#post-content p,
+#post-content li {
+  font-size: 1.05rem;
   line-height: 1.7;
+  margin-bottom: 1.2em;
 }
 
+/* ---------------------- */
+/* 4. Headings            */
+/* ---------------------- */
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 1em;
+}
+h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 0.9em;
+}
+h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 0.7em;
+}
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  margin-bottom: 0.6em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar a,
+.btn {
+  text-transform: none !important;
+}
+
+/* ---------------------- */
+/* 5. Blockquotes          */
+/* ---------------------- */
+blockquote {
+  font-size: 1.25rem; /* readable */
+  line-height: 1.6;
+  border-left: 3px solid #ddd;
+  padding-left: 1rem;
+  color: #555;
+  background-color: #fafafa;
+  margin: 1.5em 0;
+  font-style: italic;
+}
+
+/* ---------------------- */
+/* 6. Tables               */
+/* ---------------------- */
 #post-content table {
   border-collapse: collapse;
   width: 100%;
+  margin: 1em 0;
 }
 
 #post-content th,
 #post-content td {
   border: 1px solid #ccc;
-  padding: 8px;
+  padding: 0.6em 1em;
 }
 
 #post-content th {
   background-color: #f5f5f5;
 }
 
+/* ---------------------- */
+/* 7. Images               */
+/* ---------------------- */
+#post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
+/* ---------------------- */
+/* 8. Fix small theme elements */
+/* ---------------------- */
+small,
+.text-small,
+.help-block,
+.footer,
+.navbar,
+.btn {
+  font-size: 0.95rem !important;
+}
+
+/* ---------------------- */
+/* 9. Boxes & layout tweaks */
+/* ---------------------- */
+.box-image-text .image {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+/* ---------------------- */
+/* 10. KaTeX math blocks   */
+/* ---------------------- */
 .katex-display > .katex {
-    overflow-x: auto;
-    overflow-y: visible;
+  overflow-x: auto;
+  overflow-y: visible;
+  padding-top: 0.08em;
+  padding-bottom: 0.08em;
+}
 
-    padding-top: 0.08em;
-    padding-bottom: 0.08em;
+/* Protect KaTeX */
+.katex,
+.katex * {
+  font-family: KaTeX_Main, KaTeX_Math, serif !important;
+}
 
+/* ---------------------- */
+/* 11. Padding for the topbar  */
+/* ---------------------- */
+html {
+  scroll-padding-top: 100px;
 }
