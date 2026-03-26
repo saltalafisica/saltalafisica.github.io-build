@@ -37,5 +37,6 @@ jobs:
           git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${PAGES_REPO}.git"
           git checkout -b master
           git add .
+
           git commit -m "Deploy Hugo site [skip ci]"
           git push --force origin master
