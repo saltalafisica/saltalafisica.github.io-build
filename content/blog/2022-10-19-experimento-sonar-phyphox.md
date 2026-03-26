@@ -31,7 +31,7 @@ El experimento Sonar envía sonidos cortos a través de un parlante y graba el e
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/wiki/index.php?title=Experiment:_Sonar). Para un video de ejemplo se puede acceder a [este link](https://www.youtube.com/watch?v=Ebj3v701HE0).
 
-![](img/sonar/sonar.png)
+![](/img/sonar/sonar.png)
 
 ### Requisitos
 

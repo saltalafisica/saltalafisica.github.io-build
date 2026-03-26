@@ -36,7 +36,7 @@ La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos.
 
 ## Preparación
 
-![](img/plano.webp)
+![](/img/plano.webp)
 
 Video ilustrativo: https://youtu.be/gPq4Le9kXWE
 
@@ -46,7 +46,7 @@ Video ilustrativo: https://youtu.be/gPq4Le9kXWE
 4. Medir el radio / diámetro del tubo y la altura inicial con el criterio del dibujo.
 5. Colocar el radio del tubo en Phyphox en el campo `Radio del tubo`.
 
-![Fuente: http://opentp.fr/en/smart/absorption/](img/rodar/absorcionPhyphox.png)
+![Fuente: http://opentp.fr/en/smart/absorption/](/img/rodar/absorcionPhyphox.png)
 
 ### Experimento
 

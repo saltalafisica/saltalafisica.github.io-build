@@ -60,7 +60,7 @@ donde:
 
 Visualmente se interpreta:
 
-![](img/incerteza/definicion.png)
+![](/img/incerteza/definicion.png)
 
 En algunos libros \\(\overline{X}\\) lo suelen poner como \\(X_0\\). El valor de expectación es el valor resultado de nuestro proceso de medición y la incerteza es el margen de error absoluto que tenemos como resultado de nuestro proceso de medición. El proceso de medición incluye todo, nuestro entorno, el sistema que medimos, como lo hacemos y los criterios que seguimos.
 
@@ -101,9 +101,9 @@ Más adelante veremos aplicaciones de estas dos definiciones. Pero, puedo adelan
 
 Veamos un par de casos prácticos de como decir qué es \\(\overline{X}\\) y qué es \\(\Delta X\\). Supongamos que hay un palito que tiene \\(8.65\\) cm. Supongamos también que no sé cuanto mide y me dispongo a medirlo con una regla casera. La regla la armó alguien que no me quiere, porque nomás me mide de a centímetros y no de a milímetros como la mayoría de reglas comerciales. Pero no tengo otra regla, me la banco. Con esta regla el extremo del palito está entre la raya de \\(8\\) cm y la de \\(9\\) cm. Según qué criterio siga voy a reportar distintas cosas. Podría decir bueno, la regla llega a \\(8\\) cm y no a \\(9\\) cm pimbi, el palito mide \\((8 \pm 1)\\) cm.
 
-![](img/incerteza/esquema-regla01.png)
+![](/img/incerteza/esquema-regla01.png)
 
-![](img/incerteza/esquema-detalle01.png)
+![](/img/incerteza/esquema-detalle01.png)
 
 La incerteza la considero de \\(1\\) cm porque es la mínima definición o apreciación de mi instrumento. ¿Tengo otras fuentes de error? Seguramente, la regla puede que no esté bien a escuadra. Quizás el extremo del palito que va a 0 no está exactamente en el medio de la marca del cero, quizás la separación entre divisiones no es exactamente \\(1\\) cm, o cualquier otra imperfección física. Pero en este caso es hilar demasiado fino, no es algo que se pueda ver a simple vista y en este caso no tiene tanto peso. Nos quedamos con \\(1\\) cm como la incerteza de medición. En este caso la regla parece estar bien construida, si fuese una regla defectuosa que me agrega de alguna forma algún error cercano a \\(1\\) cm, lo tengo que cuantificar y considerar.
 
@@ -111,17 +111,17 @@ La incerteza la considero de \\(1\\) cm porque es la mínima definición o aprec
 
 Bueno, ya medí. Pero miro de vuelta para estar seguro y me pongo a pensar. A ojo veo que el palito está un poco más arriba del medio entre la raya de \\(8\\) cm y la de \\(9\\) cm. Entonces, si digo que mide \\(8.5\\) cm (el promedio de los extremos, para caer en el medio) y le doy un margen de error de \\(0.5\\) cm (la distancia entre el medio y un extremo) es razonable. Con esto el intervalo de medición contiene el largo real del palito, a ojo no sale de ese rango. Entonces digo ta, \\((8.5 \pm 0.5)\\) cm es la medición que voy a reportar. Mejoré la precisión al mirar en detalle y afinar el criterio.
 
-![](img/incerteza/esquema-regla02.png)
+![](/img/incerteza/esquema-regla02.png)
 
-![](img/incerteza/esquema-detalle02.png)
+![](/img/incerteza/esquema-detalle02.png)
 
 ---
 
 Pero sigo un poco más ambicioso, me doy cuenta de que la regla la puedo marcar con la uña o con algo filoso. Entonces marco una línea en el medio de las divisiones de \\(8\\) cm y \\(9\\) cm. Después marco una línea en el medio de las dos mitades que quedaron. Con las nuevas divisiones y mirando atentamente concluyo que el palito mide \\((8.5 \pm 0.25)\\) cm.
 
-![](img/incerteza/esquema-regla03.png)
+![](/img/incerteza/esquema-regla03.png)
 
-![](img/incerteza/esquema-detalle03.png)
+![](/img/incerteza/esquema-detalle03.png)
 
 ---
 

@@ -60,7 +60,7 @@ para todos a mí criterio.
 
 ## "Patear" aprender alguna parte del programa
 
-![](img/2025-09-06-Errores-comunes-Matematica/piernua.png)
+![](/img/2025-09-06-Errores-comunes-Matematica/piernua.png)
 
 En el barrio se comenta que ocurren estos dilemas:
 
@@ -113,7 +113,7 @@ Cuya traduccion libre viene a ser algo como:
 
 ## Hacer lo mínimo indispensable
 
-![](img/2025-09-06-Errores-comunes-Matematica/mafaldaChill.png)
+![](/img/2025-09-06-Errores-comunes-Matematica/mafaldaChill.png)
 
 Hay muchos estudiantes tratando de hacer lo mínimo indispensable para
 aprobar, o lo que ellos _sienten_ que es lo mínimo indispensable. El
@@ -201,7 +201,7 @@ no brinda estos beneficios que menciono[^4]. Toco perder, MILAGRO DE LA VIDA. A
 tomar sol, agua, estirar, caminar un poco o charlar con alguien cercano para
 mantener la cordura.
 
-![](img/2025-09-06-Errores-comunes-Matematica/screen-time.png)
+![](/img/2025-09-06-Errores-comunes-Matematica/screen-time.png)
 
 [^4]:
     Kang, S., & Kurtzberg, T. R. (2019). Reach for your cell phone at your own
@@ -236,7 +236,7 @@ yéndole mal luego en los exámenes.
 
 En Resumen, te subiste al poni, descripto graficamente:
 
-![](img/2025-09-06-Errores-comunes-Matematica/ponySalvaje.jpg)
+![](/img/2025-09-06-Errores-comunes-Matematica/ponySalvaje.jpg)
 
 De la misma manera, ¡Si sacas una mala nota en el primer examen, no te
 desesperes! El examen de una materia no es un examen de coeficiente intelectual.
@@ -332,7 +332,7 @@ rápido que apurarse de forma caótica.
 
 ### Yapa 2: Ahorrar papel
 
-![](img/2025-09-06-Errores-comunes-Matematica/papelMucho.jpg)
+![](/img/2025-09-06-Errores-comunes-Matematica/papelMucho.jpg)
 
 Otra cosa que personalmente he observado más de una vez. Escribir lo mínimo
 indispensable en la hoja, en el afán de ahorrar papel. Y entiendo de dónde viene

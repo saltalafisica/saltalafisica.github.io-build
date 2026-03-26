@@ -31,7 +31,7 @@ Calcula la perdida de energía de un objeto cuando cae y rebota.
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/wiki/index.php?title=Experiment:_Inelastic_Collision).
 
-![](img/phyphoxDrop.webp)
+![](/img/phyphoxDrop.webp)
 
 En este experimento de colisión inelástica se graba con micrófono el sonido de una pelota. El tiempo entre rebotes permite calcular: la altura inicial de la bolita, la altura entre rebotes y la porción de energía disipada en cada rebote.
 

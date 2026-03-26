@@ -30,7 +30,7 @@ Medición de velocidad del sonido usando dos smartphones con Phyphox
 
 La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos. Dejo link al [original](https://phyphox.org/experiment/speed-of-sound/) con los [ejercicios](https://phyphox.org/material/worksheet_speed-of-sound.docx).
 
-![](img/experimento-sonido-phyphox.webp)
+![](/img/experimento-sonido-phyphox.webp)
 
 ### Pasos
 
@@ -38,12 +38,12 @@ La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos.
 
 2.  Elegir **Cronómetro acústico (Acoustic Stopwatch).**
 
-![](img/velocidad-sonido-phyphox1.jpg)
+![](/img/velocidad-sonido-phyphox1.jpg)
 
 3.  Configurar el **Umbral (Threshold)** a 0.8 para reducir el ruido de fondo.
 4.  Configurar el **Delay mínimo (Minimum Delay)** a 0.1.
 
-![](img/velocidad-sonido-phyphox2.jpg)
+![](/img/velocidad-sonido-phyphox2.jpg)
 
 5.  Para hacer el experimento, colocar los teléfonos separados uno del otro y medir esa distancia. Recomendamos que sea de 1 m (\\(d\\) = 1 m).
 

@@ -12,13 +12,13 @@ id = "contact"
 
 - 🌟 [**Socio Adherente**](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380848239a3a101823c80d72d0113)
 
-![](img/apoyanos/socioAdherente.png)
+![](/img/apoyanos/socioAdherente.png)
 
 💰 **Pago mensual, la cantidad que puedas:**
 
 - 💙 [**Socio benefactor**](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c938084823ab6e701823ca38edb00eb)
 
-![](img/apoyanos/socioBenefactor.png)
+![](/img/apoyanos/socioBenefactor.png)
 
 ---
 

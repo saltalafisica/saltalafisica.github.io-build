@@ -32,7 +32,7 @@ El objetivo de este experimento es observar como la [luminosidad](https://es.wik
 
 ---
 
-![Fuente: http://opentp.fr/en/smart/absorption/](img/lamina.jpg)
+![Fuente: http://opentp.fr/en/smart/absorption/](/img/lamina.jpg)
 
 Este experimento se basa en el contenido publicado por [Open TP](http://opentp.fr).
 Acá tenés un link al [artículo original](http://opentp.fr/en/smart/absorption/) en inglés.
@@ -41,9 +41,9 @@ Acá tenés un link al [artículo original](http://opentp.fr/en/smart/absorption
 
 1.  Iniciá Phyphox en el smartphone y elegí "Luz" en la sección "Sensores" del menú principal.
 
-    ![Datos crudos de luminosidad](img/absorcionkst.jpg)
+    ![Datos crudos de luminosidad](/img/absorcionkst.jpg)
 
-    <!-- ![datos crudos de luminosidad](img/part2.jpg) -->
+    <!-- ![datos crudos de luminosidad](/img/part2.jpg) -->
 
     Este sensor ofrece dos funcionalidades:
     - GRÁFICO: muestra un gráfico de tus mediciones, y
@@ -104,20 +104,20 @@ Acá tenés un link al [artículo original](http://opentp.fr/en/smart/absorption
     Sólo nos interesa el archivo `Raw data.csv`.
     Al abrir el archivo en mi versión de Calc, las primeras filas de datos se ven así:
 
-        ![datos crudos de luminosidad](img/phyphox_data_absorcion.png)
+        ![datos crudos de luminosidad](/img/phyphox_data_absorcion.png)
 
         La primera columna es el tiempo en segundos y la segunda el valor de luminosidad medida por el sensor.
         Quizás podés notar que mis datos de luminosidad varían un mónton.
         Incluso en los primeros segundos, que son para la referencia, el valor cambia entre 9 y 34.
         Utilizando tus notas del tiempo al que agregaste el material, podés reducir tus datos. Haciendo esto, mi tabla queda:
 
-        ![datos reducidos de luminosidad ](img/phyphox_data_absorcion_reduc.png)
+        ![datos reducidos de luminosidad ](/img/phyphox_data_absorcion_reduc.png)
 
         Podés agregar una columna "Nro. De Láminas" para indicar cuantas láminas fuiste agregando sobre el sensor. Además, podés usar una columna extra (sin nombre, columna D) para anotar el promedio de todas las mediciones en esa condición.
 
 6.  Otra forma de ver nuestros datos es mediante un gráfico. Usando Calc, podés hacer graficar la luminosidad en función del número de láminas. En mi caso, obtengo:
 
-    ![plot de luminosidad](img/phyphox_data_absorcion_plot.png)
+    ![plot de luminosidad](/img/phyphox_data_absorcion_plot.png)
 
     ¿Obtenés algo parecido?
 

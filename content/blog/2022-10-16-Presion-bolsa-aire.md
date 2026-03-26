@@ -40,16 +40,16 @@ La gente de Phyphox armo estos experimentos, los hacemos disponibles traducidos.
 Examinar el cambio en presión con la fuerza efectiva.
 Activar el experimento `Presión` en la app de Phyphox.
 
-![](img/presion-bolsa-aire/ingresarPresion.png)
+![](/img/presion-bolsa-aire/ingresarPresion.png)
 
 Para poder controlar el experimento desde otro dispositivo, activar el acceso remoto en los tres puntitos en la esquina superior derecha.
 Aparecerá una dirección de internet. Abrir esta dirección en el segundo dispositivo para controlar el experimento de forma remota.
 
-![](img/presion-bolsa-aire/ingresarPresion2.png)
+![](/img/presion-bolsa-aire/ingresarPresion2.png)
 
 Colocá el teléfono en la bolsa plástica. Ponele un poco de aire y cerrala bien con una banda elástica. Colocar un libro sobre la bolsa y anotar los valores. Ahora, coloca los pesos, uno tras otro y anotar los cambios en presión.
 
-![](img/image.webp)
+![](/img/image.webp)
 
 | Masa (Kg)     | Fuerza adicional (N) | Presión (hPa) (Redondeado a 1 dígito) | Cambio en presión respecto a la inicial (hPa) |
 | ------------- | -------------------- | ------------------------------------- | --------------------------------------------- |
@@ -116,7 +116,7 @@ Podés encontrar el valor \\(
 
 Acá va una foto de un experimento:
 
-![](img/fotitoBolsa.webp)
+![](/img/fotitoBolsa.webp)
 
 ¿Se te ocurre otro experimento con estos elementos?
 

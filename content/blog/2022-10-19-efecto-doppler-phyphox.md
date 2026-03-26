@@ -33,21 +33,21 @@ Medir el corrimiento de frecuencias, como los que detectan radares policiales o 
 
 El equipo del proyecto Phyphox para experimentos de física con smartphone armó estos experimentos. Los hacemos disponibles traducidos. [Este es link al original](https://phyphox.org/wiki/index.php/Experiment:_Doppler_Effect) con los [ejercicios](http://opentp.fr/en/smart/doppler-effect/). Las imágenes pertenecen a [OPEN TP](www.opentp.fr)
 
-![Fuente: www.opentp.fr](img/doppler.jpg)
+![Fuente: www.opentp.fr](/img/doppler.jpg)
 
 ### El experimento
 
 El estudiante deportista corre con su smartphone o parlante, emitiendo un armónico puro de tono alto, arriba de los 5000 Hz - para poder diferenciarlo bien del ruido del ambiente. Podés crear un tono puro usando Phyphox (ver imagen).
 
-![generar tonos](img/generarTonos2.png)
+![generar tonos](/img/generarTonos2.png)
 
-![Efecto doppler](img/efecto-doppler/efectoDoppler2.png)
+![Efecto doppler](/img/efecto-doppler/efectoDoppler2.png)
 
 El segundo estudiante se mantiene quieto y mide la frecuencia con su smartphone. El efecto doppler explica que la frecuencia recibida sea diferente a la emitida. Esto depende de la velocidad del corredor y si se acerca o aleja.
 
 **Desafío:** Determinar la velocidad del corredor con la fórmula del efecto doppler y comparar el resultado con una técnica tradicional de medición de velocidad. Tomando el tiempo transcurrido y distancia cubierta.
 
-<!-- ![generar tonos](img/efectoDoppler.png) -->
+<!-- ![generar tonos](/img/efectoDoppler.png) -->
 
 ### El efecto doppler
 
