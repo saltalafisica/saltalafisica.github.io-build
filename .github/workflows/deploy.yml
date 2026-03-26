@@ -1,34 +1,49 @@
-name: Deploy Hugo site to GitHub Pages
+name: Build and Deploy Hugo Site
 
 on:
   push:
     branches:
-      - master # or your default branch
-
-permissions:
-  contents: write
+      - master # your Hugo source branch
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # 1. Checkout source
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          submodules: true  # matches your GitLab before_script
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: '0.157.0'
+      # 2. Install Hugo
+      - name: Install Hugo
+        run: |
+          HUGO_VERSION=0.116.1
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
+          sudo dpkg -i hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
+          hugo version
 
-      - name: Build site
-        run: hugo --minify --baseURL "https://saltalafisica.github.io/" --destination public
+      # 3. Build Hugo site
+      - name: Build Hugo site
+        run: hugo --minify
 
-      - name: Deployment to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
+      # 4. Deploy only generated site to root of master
+      - name: Deploy generated site
+        run: |
+          TMP_DIR=$(mktemp -d)
+
+          # Clone repo into temporary directory
+          git clone --depth=1 "https://github.com/${{ github.repository }}.git" $TMP_DIR
+          cd $TMP_DIR
+
+          # Remove everything except .git (keeps repo clean)
+          git rm -rf .
+
+          # Copy generated files from workflow's public folder
+          cp -r $GITHUB_WORKSPACE/public/* ./
+
+          # Commit and push deployment
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "Deploy Hugo site [skip ci]" || echo "No changes to commit"
+          git push origin master
