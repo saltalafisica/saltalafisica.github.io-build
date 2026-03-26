@@ -1,42 +1,30 @@
-name: Build and Deploy Hugo Site
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches:
-      - master # or master, whatever your build repo uses
+      - master # your default branch
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout source repo (allowed here)
-      - name: Checkout source
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true # if your theme is a submodule
 
-      # 2. Install Hugo
-      - name: Install Hugo
-        run: |
-          HUGO_VERSION=0.116.1
-          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
-          sudo dpkg -i hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
-          hugo version
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.157.0"
 
-      # 3. Build Hugo site
-      - name: Build site
+      - name: Build Hugo site
         run: hugo --minify
 
-      # 4. Push generated HTML to Pages repo
       - name: Deploy to GitHub Pages
-        env:
-          PAGES_REPO: saltalafisica/saltalafisica.github.io
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cd public
-          git init
-          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${PAGES_REPO}.git"
-          git checkout -b master
-          git add .
-
-          git commit -m "Deploy Hugo site [skip ci]"
-          git push --force origin master
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
