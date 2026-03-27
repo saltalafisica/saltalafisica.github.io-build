@@ -10,6 +10,8 @@ El **viernes 20 de marzo de 2026** se llevó a cabo el **examen de ingreso al In
 
 La **sede Salta** funcionó en la **Universidad Nacional de Salta (UNSa)**. Esta fue la **tercera vez** que el examen se tomó en la provincia, siendo la primera en **2024**. En esta sede rindieron **13 estudiantes**, de un total de **16 inscriptos**.
 
+<!--more-->
+
 ![Ingreso IB 1](/img/prensa/2026-03-26_examenIngresoIB-2026/IngresoIB-rendida2-web-optimize.jpeg)
 
 El examen fue tomado por **Santiago Castro, Rodrigo López, Estanislao Escudero y Laura Cruz**, exalumnos del Instituto Balseiro residentes en Salta. La **organización general del examen** estuvo a cargo del Instituto Balseiro, que coordinó la **reserva del espacio** en articulación con la **Facultad de Ciencias Exactas de la UNSa** y la **convocatoria de los docentes evaluadores**.

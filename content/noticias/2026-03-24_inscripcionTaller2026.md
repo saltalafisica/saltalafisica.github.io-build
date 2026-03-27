@@ -10,6 +10,8 @@ Se encuentran abiertas las inscripciones para el taller “La Física al Alcance
 
 La jornada de inscripción se realizará el **sábado 21 de marzo, de 9:30 a 12:30**, en el **Anfiteatro A** de la **Universidad Nacional de Salta (UNSa)**.
 
+<!--more-->
+
 El taller **tiene costo cero** y forma parte de un **programa de extensión universitaria de la UNSa**, financiado con fondos de la Universidad a través de la Secretaría de Extensión Universitaria y la Facultad de Ciencias Exactas. Además, cuenta con el acompañamiento de la Coordinación de Promoción del Desarrollo Tecnológico del Ministerio de Educación, Cultura, Ciencia y Tecnología del Gobierno de Salta, y de la Asociación Civil Ciencia al Alcance de Todos.
 
 ### **Dos modalidades de cursado**
