@@ -451,9 +451,15 @@ potenciación como muestran los primeros ejemplos.
 
 #### Ejemplo 1: Elevar al cuadrado \\(4x\\).
 
-| **Correcto**                      | **Incorrecto** |
-| --------------------------------- | -------------- |
-| \\((4x)^2 = (4)^2(x)^2 = 16x^2\\) | \\(4x^2\\)     |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+(4x)^2 = 4^2 \cdot x^2 = 16x^2 & 4x^2 \\\
+\hline
+\end{array}
+$$
 
 ¡Notá la diferencia muy importante entre estos dos! Cuando tratás con exponentes
 recordá que solo la cantidad inmediatamente a la izquierda del exponente recibe
@@ -469,9 +475,15 @@ CREACIÓN.
 
 #### Ejemplo 2: Elevar al cuadrado \\(-3\\).
 
-| **Correcto**                | **Incorrecto**            |
-| --------------------------- | ------------------------- |
-| \\((-3)^2 = (-3)(-3) = 9\\) | \\(-3^2 = -(3)(3) = -9\\) |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+(-3)^2 = (-3)(-3) = 9 & -3^2 = -(3)(3) = -9 \\\
+\hline
+\end{array}
+$$
 
 Este es similar al anterior, pero tiene una sutileza que causa problemas
 ocasionalmente. Recordá que solo la cantidad a la izquierda del exponente recibe
@@ -486,9 +498,17 @@ rápidamente de los paréntesis y escriben \\(-9\\) de todas formas!
 
 #### Ejemplo 3: Restar \\(4x - 5\\) de \\(x^2 + 3x - 5\\).
 
-| **Correcto**                                                    | **Incorrecto**                             |
-| --------------------------------------------------------------- | ------------------------------------------ |
-| \\(x^2 + 3x - 5 - (4x - 5) = x^2 + 3x - 5 - 4x + 5 = x^2 - x\\) | \\(x^2 + 3x - 5 - 4x - 5 = x^2 - x - 10\\) |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+x^2 + 3x - 5 - (4x - 5) = & x^2 + 3x - 5 - 4x - 5 = \\\
+= x^2 + 3x - 5 - 4x + 5 & = x^2 - x - 10 \\\
+= x^2 - x & = x^2 - x - 10 \\\
+\hline
+\end{array}
+$$
 
 ¡Tené cuidado y notá la diferencia entre los dos! En el primer caso, puse
 paréntesis alrededor del \\(4x - 5\\) y en el segundo no. Ya que estamos
@@ -502,9 +522,15 @@ que estaban ahí y hacen la resta incorrectamente.
 
 #### Ejemplo 4: Convertir \\(\sqrt{7x}\\) a exponentes fraccionarios.
 
-| **Correcto**                 | **Incorrecto**             |
-| ---------------------------- | -------------------------- |
-| \\(\sqrt{7x} = (7x)^{1/2}\\) | \\(\sqrt{7x} = 7x^{1/2}\\) |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+\sqrt{7x} = (7x)^{1/2} & \sqrt{7x} = 7x^{1/2} \\\
+\hline
+\end{array}
+$$
 
 Esto vuelve al mismo error en los primeros dos. Solo la cantidad a la izquierda
 del exponente recibe el exponente. Entonces, el caso incorrecto es realmente
@@ -512,9 +538,19 @@ del exponente recibe el exponente. Entonces, el caso incorrecto es realmente
 
 #### Ejemplo 5: Evaluar \\(-3\int 6x - 2 dx\\).
 
-| **Correcto**                                                | **Incorrecto**                                                   |
-| ----------------------------------------------------------- | ---------------------------------------------------------------- |
-| \\(-3\int 6x - 2 dx = -3(3x^2 - 2x) + c = -9x^2 + 6x + c\\) | \\(-3\int 6x - 2 dx = -3 \cdot 3x^2 - 2x + c = -9x^2 - 2x + c\\) |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+-3\int (6x - 2) dx = &
+-3\int (6x - 2) dx = \\\
+= -3(3x^2 - 2x) + c &
+= -3 \cdot 3x^2 - 2x + c \\\
+= -9x^2 + 6x + c & = -9x^2 - 2x + c \\\
+\hline
+\end{array}
+$$
 
 Notá el uso de los paréntesis. El problema establece que es \\(-3\\) veces TODA
 la integral, no solo el primer término de la integral (como se hace en el
@@ -527,9 +563,15 @@ con los que me encuentro regularmente.
 
 #### Ejemplo 1: Multiplicar \\(4(2x^2 - 10)\\).
 
-| **Correcto**                   | **Incorrecto**                 |
-| ------------------------------ | ------------------------------ |
-| \\(4(2x^2 - 10) = 8x^2 - 40\\) | \\(4(2x^2 - 10) = 8x^2 - 10\\) |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+4(2x^2 - 10) = 8x^2 - 40 & 4(2x^2 - 10) = 8x^2 - 10 \\\
+\hline
+\end{array}
+$$
 
 ¡Asegurate de que distribuyas el \\(4\\) completamente a través del paréntesis!
 Muy a menudo la gente solo multiplica el primer término por el \\(4\\) e ignora
@@ -539,9 +581,20 @@ estudiantes suelen acordarse de hacer la distribución correctamente.
 
 #### Ejemplo 2: Multiplicar \\(3(2x - 5)^2\\).
 
-| **Correcto**                                              | **Incorrecto**                                       |
-| --------------------------------------------------------- | ---------------------------------------------------- |
-| \\(3(2x - 5)^2 = 3(4x^2 - 20x + 25) = 12x^2 - 60x + 75\\) | \\(3(2x - 5)^2 = (6x - 15)^2 = 36x^2 - 180x + 225\\) |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Correcto} & \textbf{Incorrecto} \\\
+\hline
+3(2x - 5)^2 =  &
+3(2x - 5)^2 =  \\\
+= 3(4x^2 - 20x + 25) &
+= (6x - 15)^2 \\\
+= 12x^2 - 60x + 75 &
+= 36x^2 - 180x + 225 \\\
+\hline
+\end{array}
+$$
 
 ¡Recordá que la potenciación debe ser realizada ANTES de que distribuyas
 cualquier coeficiente a través del paréntesis!
