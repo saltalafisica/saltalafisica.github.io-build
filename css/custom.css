@@ -156,3 +156,18 @@ small,
 .katex * {
   font-family: KaTeX_Main, KaTeX_Math, serif !important;
 }
+
+/* ---------------------- */
+/* 11. Background */
+/* ---------------------- */
+
+.bar.background-image-fixed-1 {
+  background: url("../img/photogrid.jpg") center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bar.background-image-fixed-2 {
+  background: url("../img/photogrid.jpg") center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
