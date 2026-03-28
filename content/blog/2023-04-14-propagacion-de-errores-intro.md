@@ -1,6 +1,6 @@
 ---
 title: "Propagación de errores: Primeros pasos"
-author: Martín Aramayo
+authors: ["Martín Aramayo"]
 subtitle: "⚖️🌡️⏱️"
 tags:
   ["Distancias", "Mediciones", "Matemática", "Física", "Propagación de errores"]

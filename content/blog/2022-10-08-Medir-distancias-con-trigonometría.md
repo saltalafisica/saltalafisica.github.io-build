@@ -1,6 +1,6 @@
 ---
 title: "Cómo medir distancias midiendo ángulos"
-author: Martín Aramayo
+authors: ["Martín Aramayo"]
 subtitle: "📏➕📐"
 # image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags:

@@ -2,7 +2,7 @@
 title: "Experimento de Sonar"
 subtitle: 📱📢🧱
 math: true
-author: Martín Aramayo, Alberto Villagran
+authors: ["Martín Aramayo", "Alberto Villagran"]
 # image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Sonido", "Ondas", "Reflexión", "Señales", "Smartphone", "Phyphox"]
 date: 2022-10-19

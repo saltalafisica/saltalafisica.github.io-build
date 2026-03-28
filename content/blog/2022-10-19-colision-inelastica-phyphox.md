@@ -2,7 +2,7 @@
 title: "Colisión inelástica"
 subtitle: 🎱💥🧱
 math: true
-author: Martín Aramayo, Alberto Villagran
+authors: ["Martín Aramayo", "Alberto Villagran"]
 # image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Colisiones", "Colision inelastica", "Mecánica", "Smartphone", "Phyphox"]
 date: 2022-10-19

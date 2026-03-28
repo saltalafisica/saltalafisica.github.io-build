@@ -2,7 +2,13 @@
 title: "Absorción de luz visible"
 subtitle: 💡📃📱
 math: true
-author: Martín Aramayo, Juan Pablo Carbajal, Alberto Villagran, Alejandra Mendez
+authors:
+  [
+    "Martín Aramayo",
+    "Juan Pablo Carbajal",
+    "Alberto Villagran",
+    "Alejandra Mendez",
+  ]
 # image: "/img/blog/2022-10-19-absorcion-phyphox/lamina.jpg"
 tags: ["Absorción", "Luz", "Smartphone", "Phyphox", "Sensores", "Óptica"]
 date: 2022-10-19

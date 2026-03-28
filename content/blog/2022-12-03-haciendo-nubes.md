@@ -1,6 +1,12 @@
 ---
 title: "Haciendo nubes"
-author: Juan Pablo Carbajal, Maximiliano Baldiviezo, Agustín Valle, Mauricio Romano
+authors:
+  [
+    "Juan Pablo Carbajal",
+    "Maximiliano Baldiviezo",
+    "Agustín Valle",
+    "Mauricio Romano",
+  ]
 subtitle: "☁️🚲🔩" # tres emojis que tengan que ver con el post, podés sacarlos de https://emojipedia.org/
 tags: ["Nube", "Enfriamiento Adiabático", "Temperatura", "Presión", "Física"] # Por lo general contienen lo mismo que los temas
 date: 2022-12-03 # poner la fecha de creación del post

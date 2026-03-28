@@ -1,6 +1,6 @@
 ---
 title: "Como analizar datos usando promedios"
-author: Martín Aramayo.
+authors: ["Martín Aramayo."]
 subtitle: "📊👥🧮" # tres emojis que tengan que ver con el post, podes sacarlos de https://emojipedia.org/
 tags: ["Matemática", "Estadistica", "Física", "Promedio"] # Por lo general contienen lo mismo que los temas
 date: 2024-05-21 # poner la fecha de creación del post

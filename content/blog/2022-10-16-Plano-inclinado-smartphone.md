@@ -2,7 +2,7 @@
 title: "Plano inclinado con Smartphone"
 subtitle: 📐📱🎢
 math: true
-author: Martín Aramayo, Alberto Villagran
+authors: ["Martín Aramayo", "Alberto Villagran"]
 # image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Presión", "Física", "Unidades", "Smartphone", "Phyphox"]
 date: 2022-10-15

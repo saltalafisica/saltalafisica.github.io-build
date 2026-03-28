@@ -2,7 +2,7 @@
 title: "Velocidad del sonido con Smartphone"
 subtitle: 📢🏃📱
 math: true
-author: Martín Aramayo, Alberto Villagran
+authors: ["Martín Aramayo", "Alberto Villagran"]
 # image: "/page/medir-distancias-con-trigonometria/regla-mano-izquierda-portrait.webp"
 tags: ["Sonido", "Cinemática", "MRU", "Smartphone", "Phyphox"]
 date: 2022-10-19
