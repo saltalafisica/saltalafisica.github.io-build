@@ -14,14 +14,14 @@ La jornada de inscripción se realizará el **sábado 21 de marzo, de 9:30 a 12:
 
 El taller **tiene costo cero** y forma parte de un **programa de extensión universitaria de la UNSa**, financiado con fondos de la Universidad a través de la Secretaría de Extensión Universitaria y la Facultad de Ciencias Exactas. Además, cuenta con el acompañamiento de la Coordinación de Promoción del Desarrollo Tecnológico del Ministerio de Educación, Cultura, Ciencia y Tecnología del Gobierno de Salta, y de la Asociación Civil Ciencia al Alcance de Todos.
 
-### **Dos modalidades de cursado**
+## **Dos modalidades de cursado**
 
 El programa ofrece dos opciones para los estudiantes:
 
 - **Fundamentos:** orientado a quienes desean comprender los principios de la física y el “por qué” de los fenómenos naturales.
 - **Olimpiadas:** pensado para estudiantes que disfrutan resolver problemas complejos y buscan entrenarse para participar en competencias de física.
 
-### **Documentación requerida**
+## **Documentación requerida**
 
 Para completar la inscripción será necesario presentar:
 
@@ -31,11 +31,11 @@ Para completar la inscripción será necesario presentar:
 
 Desde la organización aclararon que **no se aceptará documentación incompleta**, por lo que se recomienda asistir con todos los requisitos preparados.
 
-### **Inicio de clases**
+## **Inicio de clases**
 
 Las clases comenzarán **el 11 de abril**.
 
-### **Reconocimientos institucionales**
+## **Reconocimientos institucionales**
 
 El taller **“La Física al Alcance de Todos”** fue:
 
@@ -43,7 +43,7 @@ El taller **“La Física al Alcance de Todos”** fue:
 - **Declarado de interés por la Cámara de Diputados de la Provincia de Salta**
 - **Declarado de interés por la Cámara de Senadores de la Nación Argentina**
 
-### **Donaciones para el programa**
+## **Donaciones para el programa**
 
 Si bien el taller **es completamente gratuito**, la organización informó que **se aceptan donaciones voluntarias** destinadas a la compra de **insumos de laboratorio y equipamiento**, necesarios para el desarrollo de las actividades experimentales y el trabajo de los docentes.
 
@@ -56,7 +56,7 @@ En esa página se pueden realizar:
 - **Donaciones únicas**
 - **Donaciones mensuales**
 
-### **Contacto**
+## **Contacto**
 
 - **Correo electrónico:** saltalafisica@gmail.com
 - **Instagram:** @saltalafisica

@@ -1,4 +1,4 @@
-baseurl = "/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://saltalafisica.github.io/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Asociación Civil Ciencia al Alcance de Todos"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -238,7 +238,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contactenos en acdc.ciencia@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">SITIO EN CONSTRUCCION: Contactenos en acdc.ciencia@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:acdc.ciencia@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>

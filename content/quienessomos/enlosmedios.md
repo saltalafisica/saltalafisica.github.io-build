@@ -200,6 +200,8 @@ search = false
 
 ### Entrevistas y notas periodísticas
 
+- **2026 – Inscripcion al taller**: [https://www.eltribuno.com/salta/2026-3-25-0-0-0-mas-de-200-inscriptos-al-taller-de-fisica-de-la-unsa](https://www.eltribuno.com/salta/2026-3-25-0-0-0-mas-de-200-inscriptos-al-taller-de-fisica-de-la-unsa)
+
 - **2015 – Entrevista a Daniel Córdoba** (_U-238_):
   [http://u-238.com.ar/entrevista-a-daniel-cordoba-profesor-de-fisica/](http://u-238.com.ar/entrevista-a-daniel-cordoba-profesor-de-fisica/)
 

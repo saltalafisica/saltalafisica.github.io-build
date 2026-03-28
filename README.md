@@ -24,16 +24,17 @@ magick mogrify -path output -resize 1200x\> -strip -interlace Plane -quality 82 
 - [x] Make giant tables scrollable
 - [x] Fix translation issues in the table of contents (i38)
 - [x] Ensure the banner image is displayed correctly
-- [ ] Make the tag column togglable
+- [x] Other contribution channels
+- [x] Document how to add a post and modify the site
 - [ ] Get the new favicon
+- [ ] Make the tag column toggable
 - [ ] Display all affiliations
 - [ ] Optimize images for the website
 - [ ] Meta open graph optimization
 - [ ] SEO optimization
 - [ ] Setting the domain name
-- [x] Document how to add a post and modify the site
-- [x] Other contribution channels
 - [ ] Formulario de contacto
+- [ ] Otras formas de apoyar a la asociacion. Con tiempo, contadores, cuestiones burocraticas y administrativas.
 
 ---
 
